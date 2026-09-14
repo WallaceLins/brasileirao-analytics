@@ -352,7 +352,7 @@ Dashboard/Dashboard_Brasileirao_2026.pbix
 O repositório também contém um vídeo demonstrativo do projeto:
 
 ```text
-media/Analise Brasileirao.mp4
+🎥 [Assistir demonstração do projeto](https://github.com/WallaceLins/brasileirao-analytics/blob/main/media/Analise%20Brasileirao.mp4)
 ```
 
 ---
