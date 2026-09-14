@@ -348,9 +348,6 @@ Dashboard/Dashboard_Brasileirao_2026.pbix
 ![Time selecionado](media/Time%20Selecionado.png)
 
 
-por:
-
-```markdown
 ### Demonstração do projeto
 
 O repositório também contém um vídeo demonstrativo do projeto:
